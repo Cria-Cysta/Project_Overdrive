@@ -41,7 +41,7 @@ In production, stay tuned ;-)
 
 Because it is designed to be easy to assemble, you can try to assemble it yourself.
 
-### About designed
+### About design
 
 Q: Why is the appearance very round, despite the use of 3D printing, there is no design of extra protrusions?
 
