@@ -23,13 +23,14 @@ In order to make this controller, you'll need:
 5. EC11 rotary encoder ×2
 6. PCB ×1
 7. Keyboard axis ×7
-8. Pro micro development board ×1, With solder pins
-9. Several GB M2×18 countersunk screw 
-10. 20cm Micro USB male to female Type-C converter ×1.
-11. Φ25mm knob ×2
-12. 1u×1u DSA Keycap ×1
-13. 1u×1.75u DSA Keycap ×2
-14. Φ10mm mat ×4
+8. Satellite axis ×8
+9. Pro micro development board ×1, With solder pins
+10. Several GB M2×18 countersunk screw 
+11. 20cm Micro USB male to female Type-C converter ×1.
+12. Φ25mm knob ×2
+13. 1u×1u DSA Keycap ×1
+14. 1u×1.75u DSA Keycap ×2
+15. Φ10mm mat ×4
 
 In addition, you also need to prepare solder, flux, electric soldering iron and other tools used to solder the circuit board, as well as a small Phillips screwdriver. Because 3D-printed parts may have dimensional tolerances, prepare sandpaper as appropriate. 
 
