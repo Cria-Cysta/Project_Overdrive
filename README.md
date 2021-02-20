@@ -21,7 +21,7 @@ In order to make this controller, you'll need:
 3. Lower lid 3D-printed parts ×1
 4. BT-button 3D-printed parts ×4
 5. EC11 rotary encoder ×2
-6. PCB ×1
+6. PCB ×1 (thickness: 1.6mm)
 7. Keyboard axis ×7
 8. Satellite axis ×8
 9. Pro micro development board ×1, With solder pins
