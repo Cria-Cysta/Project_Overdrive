@@ -2,12 +2,6 @@
 
 Overdrive Model Ver. 21B20
 
-<<<<<<< HEAD
-
-=======
-## A middle-sized rhythm game controller
->>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
-
 ### What is it?
 
 It's a game controller which designed for SDVX E-cloud, USC, KSM.
@@ -91,8 +85,4 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 If you need the instructions in the Chinese version, please jump to this website:
 
-<<<<<<< HEAD
 https://shimo.im/docs/xqpTWwy3x8qtTTDj/ 
-=======
-https://shimo.im/docs/xqpTWwy3x8qtTTDj/ 
->>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
