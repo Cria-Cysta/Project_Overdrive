@@ -2,7 +2,11 @@
 
 Overdrive Model Ver. 21B20
 
+<<<<<<< HEAD
 
+=======
+## A middle-sized rhythm game controller
+>>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
 
 ### What is it?
 
@@ -41,6 +45,7 @@ In production, stay tuned ;-)
 
 Because it is designed to be easy to assemble, you can try to assemble it yourself.
 
+<<<<<<< HEAD
 ### About designed
 
 Q: Why is the appearance very round, despite the use of 3D printing, there is no design of extra protrusions?
@@ -56,6 +61,28 @@ Q: Why is there no LED light like other miniaturized controllers?
 A: Future versions consider adding this feature.
 
 Q: Since the design is based on the size of the mechanical keyboard, why does the controller use non-standard BT keys?
+=======
+### About design
+
+Q: Why is the appearance very round, despite the use of 3D printing, there is no design of extra protrusions?
+
+A: When playing SDVX E-cloud or other laser-shoot-type games, due to the variety of gameplay requirements, if you are not familiar with the chart or playing the difficult music chart, it may lead to violent operations that vary from person to person. The smooth appearance can maximize the protection of the user's hands when playing.
+
+Q: Why are there chamfers near the buttons?
+
+A: Since this controller is a miniaturized controller, the size standard part refers to a part that made for a mechanical keyboard. The specifications of the BT button 2U*2U are not guaranteed to fit everyone's hands. Therefore, in order to prevent the nails from reaching the gap and being caught, all buttons are designed with chamfers. 
+
+Q: Why did the position of the FX button move inward?
+
+A: The two FX buttons move inward for convenience. The design of the controller is for ease of use or to restore the feel of the arcade. These two design directions will inevitably have contradictions in some aspects. The inward movement of the FX button can reduce the accumulation of fatigue caused by long-term play under the design of the hand console, and it can also take care of players with relatively short finger lengths.
+
+Q: Why is there no LED light like other miniaturized controllers?
+
+A: Future versions consider adding this feature.
+
+Q: Since the design is based on the size of the mechanical keyboard, why does the controller use non-standard BT keys?
+
+>>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
 A: The shaft of the existing 2U*2U keys on the market is not in the center. Whether it is adding a shaft body or filling the remaining slots with a satellite shaft, it will seriously affect the feel of the button and the force feedback. 
 
 ### Others
@@ -64,4 +91,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 
 If you need the instructions in the Chinese version, please jump to this website:
 
+<<<<<<< HEAD
 https://shimo.im/docs/xqpTWwy3x8qtTTDj/ 
+=======
+https://shimo.im/docs/xqpTWwy3x8qtTTDj/ 
+>>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
