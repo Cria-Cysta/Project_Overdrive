@@ -76,7 +76,6 @@ A: Future versions consider adding this feature.
 
 Q: Since the design is based on the size of the mechanical keyboard, why does the controller use non-standard BT keys?
 
->>>>>>> 67338ad7e9833857f63efe4ecd806be7b94dc245
 A: The shaft of the existing 2U*2U keys on the market is not in the center. Whether it is adding a shaft body or filling the remaining slots with a satellite shaft, it will seriously affect the feel of the button and the force feedback. 
 
 ### Others
