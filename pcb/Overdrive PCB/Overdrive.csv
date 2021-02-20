@@ -1,0 +1,6 @@
+"ID";"位号";"包";"数量";"名称";"供应商和位号";
+1;"U1";"SparkfunPromicro";1;"ProMicro";;;
+2;"START1";"MXOnly-1U-NoLED";1;"KEYSW";;;
+3;"FX-R1,FX-L1";"MXOnly-1.75U-NoLED";2;"KEYSW";;;
+4;"BT-D1,BT-C1,BT-B1,BT-A1";"MXOnly-2U-NoLED";4;"KEYSW";;;
+5;"LASER-R1,LASER-L1";"RotaryEncoder_Alps_EC11E_Vertical_H20mm";2;"EC11_without_switch";;;

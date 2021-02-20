@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Rotary_Encoder)(type Legacy)(uri ${KIPRJMOD}/Rotary_Encoder.lib)(options "")(descr ""))
+  (lib (name Arduino)(type Legacy)(uri ${KIPRJMOD}/Arduino.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/keyboard_parts.lib)(options "")(descr ""))
+)

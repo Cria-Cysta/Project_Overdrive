@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# EC11_without_switch
+#
+DEF EC11_without_switch U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "EC11_without_switch" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -250 -100 150 -500 0 1 0 f
+X ~ A 250 -400 100 L 50 50 1 1 B
+X ~ B 250 -200 100 L 50 50 1 1 B
+X Ground C 250 -300 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+#End Library

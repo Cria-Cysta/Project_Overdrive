@@ -1,0 +1,264 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L keyboard_parts:KEYSW BT-A1
+U 1 1 6017188C
+P 4100 3700
+F 0 "BT-A1" H 4100 3933 60  0000 C CNN
+F 1 "KEYSW" H 4100 3600 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-NoLED" H 4100 3700 60  0001 C CNN
+F 3 "" H 4100 3700 60  0000 C CNN
+	1    4100 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW BT-B1
+U 1 1 6017288E
+P 4100 4300
+F 0 "BT-B1" H 4100 4533 60  0000 C CNN
+F 1 "KEYSW" H 4100 4200 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-NoLED" H 4100 4300 60  0001 C CNN
+F 3 "" H 4100 4300 60  0000 C CNN
+	1    4100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW BT-C1
+U 1 1 601735F6
+P 4100 4950
+F 0 "BT-C1" H 4100 5183 60  0000 C CNN
+F 1 "KEYSW" H 4100 4850 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-NoLED" H 4100 4950 60  0001 C CNN
+F 3 "" H 4100 4950 60  0000 C CNN
+	1    4100 4950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW BT-D1
+U 1 1 60173D6C
+P 4100 5550
+F 0 "BT-D1" H 4100 5783 60  0000 C CNN
+F 1 "KEYSW" H 4100 5450 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-2U-NoLED" H 4100 5550 60  0001 C CNN
+F 3 "" H 4100 5550 60  0000 C CNN
+	1    4100 5550
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW FX-L1
+U 1 1 60174E2A
+P 2300 3950
+F 0 "FX-L1" H 2300 4183 60  0000 C CNN
+F 1 "KEYSW" H 2300 3850 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.75U-NoLED" H 2300 3950 60  0001 C CNN
+F 3 "" H 2300 3950 60  0000 C CNN
+	1    2300 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW FX-R1
+U 1 1 60175154
+P 2300 5150
+F 0 "FX-R1" H 2300 5383 60  0000 C CNN
+F 1 "KEYSW" H 2300 5050 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1.75U-NoLED" H 2300 5150 60  0001 C CNN
+F 3 "" H 2300 5150 60  0000 C CNN
+	1    2300 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L keyboard_parts:KEYSW START1
+U 1 1 60175A0F
+P 5950 4550
+F 0 "START1" H 5950 4783 60  0000 C CNN
+F 1 "KEYSW" H 5950 4450 60  0001 C CNN
+F 2 "MX_Alps_Hybrid:MXOnly-1U-NoLED" H 5950 4550 60  0001 C CNN
+F 3 "" H 5950 4550 60  0000 C CNN
+	1    5950 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Arduino:ProMicro U1
+U 1 1 60176BAE
+P 8700 3150
+F 0 "U1" H 8675 3285 50  0000 C CNN
+F 1 "ProMicro" H 8675 3184 63  0000 C CNN
+F 2 "arduino:SparkfunPromicro" H 8700 3200 50  0001 C CNN
+F 3 "" H 8700 3200 50  0001 C CNN
+	1    8700 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rotary_Encoder:EC11_without_switch LASER-L1
+U 1 1 60178E33
+P 7750 1500
+F 0 "LASER-L1" H 7758 1565 50  0000 C CNN
+F 1 "EC11_without_switch" H 7758 1474 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 7750 1500 50  0001 C CNN
+F 3 "" H 7750 1500 50  0001 C CNN
+	1    7750 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rotary_Encoder:EC11_without_switch LASER-R1
+U 1 1 60179A84
+P 8900 1500
+F 0 "LASER-R1" H 8908 1565 50  0000 C CNN
+F 1 "EC11_without_switch" H 8908 1474 50  0000 C CNN
+F 2 "Rotary_Encoder:RotaryEncoder_Alps_EC11E_Vertical_H20mm" H 8900 1500 50  0001 C CNN
+F 3 "" H 8900 1500 50  0001 C CNN
+	1    8900 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 5150 2000 3950
+Wire Wire Line
+	2000 3950 2000 3300
+Wire Wire Line
+	7900 3300 7900 3600
+Wire Wire Line
+	7900 3600 8300 3600
+Connection ~ 2000 3950
+Wire Wire Line
+	3800 5550 3800 4950
+Wire Wire Line
+	3800 4950 3800 4300
+Connection ~ 3800 4950
+Wire Wire Line
+	3800 3700 3800 4300
+Connection ~ 3800 4300
+Wire Wire Line
+	5650 4550 5650 3300
+Wire Wire Line
+	2000 3300 3800 3300
+Connection ~ 5650 3300
+Wire Wire Line
+	5650 3300 7900 3300
+Wire Wire Line
+	3800 3700 3800 3300
+Connection ~ 3800 3700
+Connection ~ 3800 3300
+Wire Wire Line
+	3800 3300 5650 3300
+Wire Wire Line
+	2600 5150 3050 5150
+Wire Wire Line
+	3050 5150 3050 6200
+Wire Wire Line
+	3050 6200 7800 6200
+Wire Wire Line
+	7800 6200 7800 4300
+Wire Wire Line
+	7800 4300 8300 4300
+Wire Wire Line
+	2600 3950 3100 3950
+Wire Wire Line
+	3100 3950 3100 6150
+Wire Wire Line
+	3100 6150 7750 6150
+Wire Wire Line
+	7750 6150 7750 4200
+Wire Wire Line
+	7750 4200 8300 4200
+Wire Wire Line
+	4400 5550 7700 5550
+Wire Wire Line
+	7700 5550 7700 4100
+Wire Wire Line
+	7700 4100 8300 4100
+Wire Wire Line
+	4400 4950 7650 4950
+Wire Wire Line
+	7650 4950 7650 4000
+Wire Wire Line
+	7650 4000 8300 4000
+Wire Wire Line
+	4400 4300 4900 4300
+Wire Wire Line
+	4900 4300 4900 4900
+Wire Wire Line
+	4900 4900 7600 4900
+Wire Wire Line
+	7600 4900 7600 3900
+Wire Wire Line
+	7600 3900 8300 3900
+Wire Wire Line
+	4400 3700 4950 3700
+Wire Wire Line
+	4950 3700 4950 4850
+Wire Wire Line
+	4950 4850 7550 4850
+Wire Wire Line
+	7550 4850 7550 3800
+Wire Wire Line
+	7550 3800 8300 3800
+Wire Wire Line
+	6250 4550 7500 4550
+Wire Wire Line
+	7500 4550 7500 3700
+Wire Wire Line
+	7500 3700 8300 3700
+Wire Wire Line
+	8000 1800 8150 1800
+Wire Wire Line
+	8150 1800 8150 3500
+Wire Wire Line
+	8150 3500 8300 3500
+Wire Wire Line
+	9150 1800 9200 1800
+Wire Wire Line
+	9200 1800 9200 3400
+Wire Wire Line
+	9200 3400 9050 3400
+Wire Wire Line
+	8000 1900 8000 2250
+Wire Wire Line
+	8000 2250 7200 2250
+Wire Wire Line
+	7200 2250 7200 1000
+Wire Wire Line
+	7200 1000 9800 1000
+Wire Wire Line
+	9800 1000 9800 4400
+Wire Wire Line
+	9800 4400 9050 4400
+Wire Wire Line
+	8000 1700 8000 1100
+Wire Wire Line
+	8000 1100 9650 1100
+Wire Wire Line
+	9650 1100 9650 4300
+Wire Wire Line
+	9650 4300 9050 4300
+Wire Wire Line
+	9150 1900 9150 2250
+Wire Wire Line
+	9150 2250 8400 2250
+Wire Wire Line
+	8400 2250 8400 1200
+Wire Wire Line
+	8400 1200 9500 1200
+Wire Wire Line
+	9500 1200 9500 4200
+Wire Wire Line
+	9500 4200 9050 4200
+Wire Wire Line
+	9150 1700 9350 1700
+Wire Wire Line
+	9350 1700 9350 4100
+Wire Wire Line
+	9350 4100 9050 4100
+$EndSCHEMATC
