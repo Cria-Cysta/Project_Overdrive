@@ -40,7 +40,7 @@ In production, stay tuned ;-)
 
 Because it is designed to be easy to assemble, you can try to assemble it yourself.
 
-### About designed
+### About design
 
 Q: Why is the appearance very round, despite the use of 3D printing, there is no design of extra protrusions?
 A: When playing SDVX E-cloud or other laser-shoot-type games, due to the variety of gameplay requirements, if you are not familiar with the chart or playing the difficult music chart, it may lead to violent operations that vary from person to person. The smooth appearance can maximize the protection of the user's hands when playing.
