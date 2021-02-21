@@ -2,6 +2,8 @@
 
 Overdrive Model Ver. 21B20
 
+>中文版介绍请点击[这里](https://shimo.im/docs/xqpTWwy3x8qtTTDj/)。
+
 ### What is it?
 
 It's a game controller which designed for SDVX E-cloud, USC, KSM.
@@ -60,7 +62,3 @@ A: The shaft of the existing 2U*2U keys on the market is not in the center. Whet
 ### Others
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-If you need the instructions in the Chinese version, please jump to this website:
-
-https://shimo.im/docs/xqpTWwy3x8qtTTDj/ 
